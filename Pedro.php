@@ -8,5 +8,9 @@
 </head>
 <body>
     bla bla bla bla
+
+    <footer>
+      Pedro H
+    </footer>
 </body>
 </html>
