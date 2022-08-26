@@ -10,5 +10,8 @@
     Bla bla bla blub blu blu
     dfkgljhsdflkgj
     Developpement sur le branche Develpp
+    <form>
+        <input type="text">
+    </form>
 </body>
 </html>
